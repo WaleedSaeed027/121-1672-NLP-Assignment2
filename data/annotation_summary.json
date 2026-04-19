@@ -1,0 +1,51 @@
+{
+  "pos_dist": {
+    "DET": 532,
+    "NOUN": 6087,
+    "POST": 2298,
+    "ADV": 171,
+    "CONJ": 771,
+    "NUM": 312,
+    "VERB": 1226,
+    "ADJ": 76,
+    "PRON": 181
+  },
+  "ner_dist": {
+    "O": 11139,
+    "B-LOC": 204,
+    "B-PER": 68,
+    "B-ORG": 243
+  },
+  "train": 348,
+  "val": 72,
+  "test": 80,
+  "chosen_categories": [
+    "politics",
+    "sports",
+    "international"
+  ],
+  "cat_counts": {
+    "politics": 163,
+    "sports": 173,
+    "international": 124,
+    "economy": 24,
+    "health_society": 16
+  },
+  "gazetteer_sizes": {
+    "PER": 61,
+    "LOC": 67,
+    "ORG": 44
+  },
+  "lexicon_sizes": {
+    "PRON": 64,
+    "DET": 36,
+    "CONJ": 40,
+    "POST": 40,
+    "NUM": 41,
+    "ADV": 250,
+    "ADJ": 493,
+    "VERB": 791,
+    "NOUN": 1192,
+    "PUNC": 14
+  }
+}
